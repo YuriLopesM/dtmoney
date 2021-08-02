@@ -9,7 +9,10 @@ Aplicativo web criado pela [Rocketseat](https://rocketseat.com.br/) durante a Tr
 
 **dt.money** é um aplicativo de finanças pessoais, armazenando suas entradas e saídas e calculando o total de seu fluxo.
 
-✨ Este é apenas um aplicativo de Front-end, utilizando o Axios na Fake API provida pelo MirageJS.
+
+✨ Este é apenas um aplicativo de Front-end, utilizando o Axios na Fake API provida pelo MirageJS. 
+
+😕 A versão de Deploy é somente visual, pois não consegui configurar o MirageJS para o build no deploy da Vercel 
   
 
 ## 🚩 Índice
